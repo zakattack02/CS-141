@@ -1,6 +1,5 @@
 //  lightningTime.cpp
 //  Created by Owen Danke on 1/18/22.
-#include <stdio.h>
 #include <iostream>
 using namespace std;
 
